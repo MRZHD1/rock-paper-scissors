@@ -37,6 +37,7 @@ function playRound(playerSelection, computerSelection) {
         }
     }
 }
+
 function game() {
     let score = 0
     for (let i = 0; i < 5; i++) {
@@ -70,4 +71,4 @@ function game() {
         alert(`A WIN! Congrats. You beat the CPU ${score} more time(s)`)
     }
 }
-game()
+// game()
