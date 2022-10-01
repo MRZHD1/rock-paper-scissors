@@ -47,5 +47,5 @@ body {
 .next > * {
     display: flex;
     align-self: center;
-    margin:auto;
+    padding:auto;
 }
